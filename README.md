@@ -1,4 +1,4 @@
-** simple [bullet-ml](http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index.html) -> sexp parser (no evaluator yet)
+## simple [bullet-ml](http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index.html) -> sexp parser (no evaluator yet)
 
 ```lisp
 (3bml:parse-bulletml "bulletml/sample/[1943]_rolling_fire.xml")
